@@ -1,5 +1,6 @@
 footer {
-  background-color: var(--light-color);
+  background-color: #101010;
+  color: #dedede;
   font-size: var(--body-font-size-xs);
 }
 
